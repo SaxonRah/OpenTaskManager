@@ -42,15 +42,15 @@ Ever wondered how a task manager is programmed? Look no further.
 --- 
 
 # Documentation
-* Type to filter
-* Esc clear filter
-* Up/Down/PgUp/PgDn/Home/End select,
-* Del end task
-* F5 refresh now
-* Pause pause/resume
-* Ctrl+U change speed
-* Ctrl+Tab / Ctrl+1 / Ctrl+2 switch tab.
-* Right-click a row for more.
+* Type : to filter
+* Esc : clear filter
+* Up/Down/PgUp/PgDn/Home/End : to select
+* Del : end a task
+* F5 : refreshes now
+* Pause : pause/resume
+* Ctrl+U : changes speed
+* Ctrl+Tab / Ctrl+1 / Ctrl+2 : to switch tabs
+* Right click : a row for more information
 
 
 ---
