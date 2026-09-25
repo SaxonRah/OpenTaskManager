@@ -4,6 +4,8 @@ Ever wondered how a task manager is programmed? Look no further.
 
 `tm.c` is a tiny, fast open source Windows task manager. One file, pure Win32 + GDI, no frameworks.
 
+![ProcessesTab](https://raw.github.com/SaxonRah/OpenTaskManager/main/screenshots/ProcessesTab.png "Processes Tab")
+![PerformanceTab](https://raw.github.com/SaxonRah/OpenTaskManager/main/screenshots/PerformanceTab.png "Performance Tab")
 
 ---
 
